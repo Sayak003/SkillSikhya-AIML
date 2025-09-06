@@ -5,6 +5,8 @@ print(f"Welcome {name}, you are {age} years old!")
 x = input("Enter any Number: ")
 y = input("Enter Second Number")
 a = input("Choose one sign +, -, *, /: ")
+
+# Using If conditions
 if a == "+":
     print(f"{x} + {y} = {int(x) + int(y)}")
 elif a == "-":
