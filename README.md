@@ -24,6 +24,7 @@ Clone the repository:
 ```bash
 git clone https://github.com/Sayak003/SkillSikhya-AIML.git
 cd SkillSikhya-AIML
+pip install -r requirements.txt
 ```
 
 ## 🛠 Usage
